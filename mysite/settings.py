@@ -25,7 +25,7 @@ SECRET_KEY = 'vn11)yc2hk4s-)l_)kkaonbw-kg_y*nh&kqpa54nw)lvp6$fen'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "<hadilk>.pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "hadilk.pythonanywhere.com"]
 
 
 # Application definition
